@@ -7,9 +7,14 @@ The way of doing it is too much complicated in my sense. Comparatively, the meth
 To run it:
 
 $ ./complexping 
+
 Ask your question: rect=
+
 Setting rect...
+
 Ask your question: rect
+
 width:  200  height:  200
+
 Ask your question: 
 
